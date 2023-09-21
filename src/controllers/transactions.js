@@ -1,4 +1,4 @@
-const service = require("../services/transactions");
+const service = require('../services/mockTransaction');
 
 // Aby odpowiedzi były spójne daje przykładowy res:
 
@@ -12,57 +12,27 @@ const service = require("../services/transactions");
 
 const get = async (req, res, next) => {
   try {
+    const transactions = await service.getTransactions();
+    return res.json({
+      messege:
+        'this is dev data if you see this messege the server you are connecting is wrong pls check your url adress in axios/fetch',
+      status: 200,
+      statusText: 'OK',
+      data: transactions,
+    });
   } catch (err) {
-    console.error(err.message);
-    next(err);
-  }
-};
-
-const getById = async (req, res, next) => {
-  try {
-  } catch (err) {
-    console.error(err.message);
-    next(err);
-  }
-};
-
-const getCategory = async (req, res, next) => {
-  try {
-  } catch (err) {
-    console.error(err.message);
-    next(err);
-  }
-};
-
-const create = async (req, res, next) => {
-  try {
-  } catch (err) {
-    console.error(err.message);
-    next(err);
-  }
-};
-
-const remove = async (req, res, next) => {
-  try {
-  } catch (err) {
-    console.error(err.message);
-    next(err);
-  }
-};
-
-const update = async (req, res, next) => {
-  try {
-  } catch (err) {
-    console.error(err.message);
-    next(err);
+    return res
+      .status(500)
+      .json({ status: 500, statusText: 'Internal serwer error', error: err });
   }
 };
 
 module.exports = {
   get,
-  getById,
-  getCategory,
-  create,
-  remove,
-  update,
 };
+//   getById,
+//   getCategory,
+//   create,
+//   remove,
+//   update,
+// };

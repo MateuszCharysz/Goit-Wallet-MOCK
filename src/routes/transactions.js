@@ -5,14 +5,14 @@ const router = express.Router();
 
 router.get("/", transactionsController.get);
 
-router.get("/:id", transactionsController.getById);
+// router.get("/:id", auth, transactionsController.getById);
 
-router.get("/categories/:id", transactionsController.getCategory);
+// router.get("/categories/:id", auth, transactionsController.getCategory);
 
-router.post("/", transactionsController.create);
+// router.post("/", auth, transactionsController.create);
 
-router.delete("/:id", transactionsController.remove);
+// router.delete("/:id", auth, transactionsController.remove);
 
-router.put("/:id", transactionsController.update);
+// router.put("/:id", auth, transactionsController.update);
 
 module.exports = router;
