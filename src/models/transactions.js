@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 
-const transaction = new Schema(
+const mockTransaction = new Schema(
   {
     type: {
       type: String,
@@ -35,9 +35,13 @@ const transaction = new Schema(
       ref: 'user',
     },
   },
-  { versionKey: false, timestamps: true }
+  { versionKey: false, timestamps: true },
 );
 
-const Transaction = model('Transaction', transaction);
+const Transaction = model(
+  'mockTransaction',
+  mockTransaction,
+  'mockTransactions',
+);
 
 module.exports = Transaction;

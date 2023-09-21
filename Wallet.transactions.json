@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ea"
+  },
+  "type": "-",
+  "category": "Household products",
+  "comment": "Gift for your wife",
+  "sum": "300.00",
+  "date": "926781350000",
+  "owner": "George Ezra ObjectID"
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9eb"
+  },
+  "type": "+",
+  "category": "Other expenses",
+  "comment": "January Bonus",
+  "sum": "8000.00",
+  "date": "1695206212000",
+  "owner": "George Ezra ObjectID"
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ec"
+  },
+  "type": "-",
+  "category": "Car",
+  "comment": "Oil",
+  "sum": "1000.00",
+  "date": "568048550000",
+  "owner": "George Ezra ObjectID"
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ed"
+  },
+  "type": "-",
+  "category": "Products",
+  "comment": "Vegetable for the week",
+  "sum": "280.00",
+  "date": "952125803000",
+  "owner": "George Ezra ObjectID"
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ee"
+  },
+  "type": "+",
+  "category": "Car",
+  "comment": "Gift",
+  "sum": "1000.00",
+  "date": "1648163750000",
+  "owner": "George Ezra ObjectID"
+}]
