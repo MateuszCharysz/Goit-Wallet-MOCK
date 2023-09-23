@@ -5,6 +5,9 @@ require('dotenv/config');
 require('./config/passport');
 const usersRouter = require('./routes/users.js');
 const transactionsRouter = require('./routes/transactions.js');
+const mockTransactionsRouter = require('./routes/mockTransactions.js');
+// const swaggerUi = require('swagger-ui-express');
+// const swaggerDocument = require('./swagger.json');
 
 const app = express();
 const formatsLogger = app.get('env') === 'development' ? 'dev' : 'short';
@@ -15,6 +18,8 @@ app.use(express.json());
 
 app.use('/api/users', usersRouter);
 app.use('/api/transactions', transactionsRouter);
+app.use('/api/mockTransactions', mockTransactionsRouter)
+// app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 app.use((err, _, res, __) => {
   res.status(404).json({
