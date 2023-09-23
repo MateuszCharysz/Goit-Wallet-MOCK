@@ -5,6 +5,7 @@ const mockTransaction = new Schema(
     type: {
       type: String,
       enum: ['-', '+'],
+      required: true,
     },
     category: {
       type: String,
@@ -22,13 +23,19 @@ const mockTransaction = new Schema(
       ],
     },
     date: {
-      type: String,
+      type: date,
+      _id: false,
+      required: true,
     },
     comment: {
       type: String,
+      required: true,
+      trim: true,
     },
     sum: {
       type: String,
+      required: true,
+      trim: true,
     },
     owner: {
       type: Schema.Types.ObjectId,
