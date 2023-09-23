@@ -2,8 +2,6 @@ const express = require('express');
 const morgan = require('morgan');
 const cors = require('cors');
 require('dotenv/config');
-require('./config/passport');
-const usersRouter = require('./routes/users.js');
 const transactionsRouter = require('./routes/transactions.js');
 const mockTransactionsRouter = require('./routes/mockTransactions.js');
 // const swaggerUi = require('swagger-ui-express');

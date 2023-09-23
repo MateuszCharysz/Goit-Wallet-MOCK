@@ -1,0 +1,42 @@
+[
+  {
+    "type": "-",
+    "category": "Household products",
+    "comment": "Gift for your wife",
+    "sum": "300.00",
+    "date": "926781350000",
+    "owner": "Should be ObjectID but its String"
+  },
+  {
+    "type": "+",
+    "category": "Other expenses",
+    "comment": "January Bonus",
+    "sum": "8000.00",
+    "date": "1695206212000",
+    "owner": "Should be ObjectID but its String"
+  },
+  {
+    "type": "-",
+    "category": "Car",
+    "comment": "Oil",
+    "sum": "1000.00",
+    "date": "568048550000",
+    "owner": "Should be ObjectID but its String"
+  },
+  {
+    "type": "-",
+    "category": "Products",
+    "comment": "Vegetable for the week",
+    "sum": "280.00",
+    "date": "952125803000",
+    "owner": "Should be ObjectID but its String"
+  },
+  {
+    "type": "+",
+    "category": "Car",
+    "comment": "Gift",
+    "sum": "1000.00",
+    "date": "1648163750000",
+    "owner": "Should be ObjectID but its String"
+  }
+]

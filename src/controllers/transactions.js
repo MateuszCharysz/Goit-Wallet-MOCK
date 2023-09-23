@@ -124,9 +124,10 @@ const update = async (req, res, next) => {
 
 module.exports = {
   get,
-  getById,
-  getCategory,
-  create,
-  remove,
-  update,
 };
+//   getById,
+//   getCategory,
+//   create,
+//   remove,
+//   update,
+// };
