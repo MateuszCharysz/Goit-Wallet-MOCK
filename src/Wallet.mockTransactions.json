@@ -1,0 +1,2382 @@
+[{
+  "_id": {
+    "$oid": "650cb3222616a6a57918c9f2"
+  },
+  "type": "-",
+  "category": "Household products",
+  "comment": "Gift for your wife",
+  "sum": "300.00",
+  "date": {
+    "day": "15",
+    "month": "8",
+    "year": "2023"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  },
+  "type": "+",
+  "category": "Other expenses",
+  "comment": "January Bonus",
+  "sum": "8000.00",
+  "date": {
+    "day": "16",
+    "month": "8",
+    "year": "2023"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb3222616a6a57918c9f4"
+  },
+  "type": "-",
+  "category": "Car",
+  "comment": "Oil",
+  "sum": "1000.00",
+  "date": {
+    "day": "16",
+    "month": "8",
+    "year": "2023"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb3222616a6a57918c9f5"
+  },
+  "type": "-",
+  "category": "Products",
+  "comment": "Vegetable for the week",
+  "sum": "280.00",
+  "date": {
+    "day": "12",
+    "month": "2",
+    "year": "2021"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb3222616a6a57918c9f6"
+  },
+  "type": "+",
+  "category": "Car",
+  "comment": "Gift",
+  "sum": "1000.00",
+  "date": {
+    "day": "10",
+    "month": "6",
+    "year": "2022"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ea"
+  },
+  "type": "-",
+  "category": "Household products",
+  "comment": "Gift for your wife",
+  "sum": "300.00",
+  "date": {
+    "day": "19",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9eb"
+  },
+  "type": "+",
+  "category": "Other expenses",
+  "comment": "January Bonus",
+  "sum": "8000.00",
+  "date": {
+    "day": "19",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ec"
+  },
+  "type": "-",
+  "category": "Car",
+  "comment": "Oil",
+  "sum": "1000.00",
+  "date": {
+    "day": "30",
+    "month": "1",
+    "year": "2023"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ed"
+  },
+  "type": "-",
+  "category": "Products",
+  "comment": "Vegetable for the week",
+  "sum": "280.00",
+  "date": {
+    "day": "10",
+    "month": "2",
+    "year": "2020"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cb11f2616a6a57918c9ee"
+  },
+  "type": "+",
+  "category": "Car",
+  "comment": "Gift",
+  "sum": "1000.00",
+  "date": {
+    "day": "8",
+    "month": "5",
+    "year": "1980"
+  },
+  "owner": {
+    "$oid": "650cb3222616a6a57918c9f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc81a"
+  },
+  "category": "Household products",
+  "comment": "New dishwasher",
+  "date": {
+    "day": "03",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc81b"
+  },
+  "category": "Household products",
+  "comment": "Strange things",
+  "date": {
+    "day": "04",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc81c"
+  },
+  "category": "Other expenses",
+  "comment": "Broken record",
+  "date": {
+    "day": "05",
+    "month": "02",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc81d"
+  },
+  "category": "Other expenses",
+  "comment": "Stupid something",
+  "date": {
+    "day": "06",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "250",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc81e"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc81f"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "02",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc820"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc821"
+  },
+  "category": "Main expenses",
+  "comment": "new window in the house",
+  "date": {
+    "day": "09",
+    "month": "04",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "150",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc822"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "02",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc823"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc824"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "05",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc825"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "05",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc826"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc827"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "02",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc828"
+  },
+  "category": "Child care",
+  "comment": "Soap",
+  "date": {
+    "day": "28",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc829"
+  },
+  "category": "Products",
+  "comment": "Milk",
+  "date": {
+    "day": "22",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "2000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc82a"
+  },
+  "category": "Products",
+  "comment": "Groceries",
+  "date": {
+    "day": "22",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1800",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc82b"
+  },
+  "category": "Car",
+  "comment": "New Tires",
+  "date": {
+    "day": "02",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "12000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc82c"
+  },
+  "category": "Car",
+  "comment": "fuel",
+  "date": {
+    "day": "02",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "8000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc82d"
+  },
+  "category": "Household products",
+  "comment": "New washing machine",
+  "date": {
+    "day": "03",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc82e"
+  },
+  "category": "Household products",
+  "comment": "Shit to kill ants and other bugs in the house",
+  "date": {
+    "day": "04",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "6000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc82f"
+  },
+  "category": "Other expenses",
+  "comment": "Thief damaged door",
+  "date": {
+    "day": "05",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc830"
+  },
+  "category": "Other expenses",
+  "comment": "Hefty sum for hiding body",
+  "date": {
+    "day": "06",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "25000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc831"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc832"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc833"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc834"
+  },
+  "category": "Main expenses",
+  "comment": "new door in the house",
+  "date": {
+    "day": "09",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc835"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc836"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc837"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "14",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc838"
+  },
+  "comment": "Side Job",
+  "date": {
+    "day": "15",
+    "month": "01",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc839"
+  },
+  "comment": "Bank robbery",
+  "date": {
+    "day": "18",
+    "month": "03",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7e2a953c1b93126fc83a"
+  },
+  "comment": "Lottery ticket",
+  "date": {
+    "day": "19",
+    "month": "02",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "20000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc83b"
+  },
+  "category": "Household products",
+  "comment": "New dishwasher",
+  "date": {
+    "day": "03",
+    "month": "11",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc83c"
+  },
+  "category": "Household products",
+  "comment": "Strange things",
+  "date": {
+    "day": "04",
+    "month": "11",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc83d"
+  },
+  "category": "Other expenses",
+  "comment": "Broken record",
+  "date": {
+    "day": "05",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc83e"
+  },
+  "category": "Other expenses",
+  "comment": "Stupid something",
+  "date": {
+    "day": "06",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "250",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc83f"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc840"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc841"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc842"
+  },
+  "category": "Main expenses",
+  "comment": "new window in the house",
+  "date": {
+    "day": "09",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "150",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc843"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "04",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc844"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "04",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc845"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "05",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc846"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "06",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc847"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "07",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc848"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "08",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc849"
+  },
+  "category": "Child care",
+  "comment": "Soap",
+  "date": {
+    "day": "28",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc84a"
+  },
+  "category": "Products",
+  "comment": "Milk",
+  "date": {
+    "day": "22",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "2000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc84b"
+  },
+  "category": "Products",
+  "comment": "Groceries",
+  "date": {
+    "day": "22",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1800",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc84c"
+  },
+  "category": "Car",
+  "comment": "New Tires",
+  "date": {
+    "day": "02",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "12000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc84d"
+  },
+  "category": "Car",
+  "comment": "fuel",
+  "date": {
+    "day": "02",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "8000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc84e"
+  },
+  "category": "Household products",
+  "comment": "New washing machine",
+  "date": {
+    "day": "03",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc84f"
+  },
+  "category": "Household products",
+  "comment": "Shit to kill ants and other bugs in the house",
+  "date": {
+    "day": "04",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "6000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc850"
+  },
+  "category": "Other expenses",
+  "comment": "Thief damaged door",
+  "date": {
+    "day": "05",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc851"
+  },
+  "category": "Other expenses",
+  "comment": "Hefty sum for hiding body",
+  "date": {
+    "day": "06",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "25000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc852"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc853"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc854"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc855"
+  },
+  "category": "Main expenses",
+  "comment": "new door in the house",
+  "date": {
+    "day": "09",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc856"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc857"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc858"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "14",
+    "month": "09",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc859"
+  },
+  "comment": "Side Job",
+  "date": {
+    "day": "15",
+    "month": "10",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc85a"
+  },
+  "comment": "Bank robbery",
+  "date": {
+    "day": "18",
+    "month": "11",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f0b953c1b93126fc85b"
+  },
+  "comment": "Lottery ticket",
+  "date": {
+    "day": "19",
+    "month": "12",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "20000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc85c"
+  },
+  "category": "Household products",
+  "comment": "New dishwasher",
+  "date": {
+    "day": "03",
+    "month": "11",
+    "year": "2023"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc85d"
+  },
+  "category": "Household products",
+  "comment": "Strange things",
+  "date": {
+    "day": "04",
+    "month": "11",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc85e"
+  },
+  "category": "Other expenses",
+  "comment": "Broken record",
+  "date": {
+    "day": "05",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc85f"
+  },
+  "category": "Other expenses",
+  "comment": "Stupid something",
+  "date": {
+    "day": "06",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "250",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc860"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc861"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc862"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc863"
+  },
+  "category": "Main expenses",
+  "comment": "new window in the house",
+  "date": {
+    "day": "09",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "150",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc864"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "04",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc865"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "04",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc866"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "05",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc867"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "06",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc868"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "07",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc869"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "08",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc86a"
+  },
+  "category": "Child care",
+  "comment": "Soap",
+  "date": {
+    "day": "28",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc86b"
+  },
+  "category": "Products",
+  "comment": "Milk",
+  "date": {
+    "day": "22",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "2000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc86c"
+  },
+  "category": "Products",
+  "comment": "Groceries",
+  "date": {
+    "day": "22",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1800",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc86d"
+  },
+  "category": "Car",
+  "comment": "New Tires",
+  "date": {
+    "day": "02",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "12000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc86e"
+  },
+  "category": "Car",
+  "comment": "fuel",
+  "date": {
+    "day": "02",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "8000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc86f"
+  },
+  "category": "Household products",
+  "comment": "New washing machine",
+  "date": {
+    "day": "03",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc870"
+  },
+  "category": "Household products",
+  "comment": "Shit to kill ants and other bugs in the house",
+  "date": {
+    "day": "04",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "6000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc871"
+  },
+  "category": "Other expenses",
+  "comment": "Thief damaged door",
+  "date": {
+    "day": "05",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc872"
+  },
+  "category": "Other expenses",
+  "comment": "Hefty sum for hiding body",
+  "date": {
+    "day": "06",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "25000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc873"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc874"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc875"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc876"
+  },
+  "category": "Main expenses",
+  "comment": "new door in the house",
+  "date": {
+    "day": "09",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc877"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc878"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc879"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "14",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc87a"
+  },
+  "comment": "Side Job",
+  "date": {
+    "day": "15",
+    "month": "10",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc87b"
+  },
+  "comment": "Bank robbery",
+  "date": {
+    "day": "18",
+    "month": "11",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f84953c1b93126fc87c"
+  },
+  "comment": "Lottery ticket",
+  "date": {
+    "day": "19",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "20000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc87d"
+  },
+  "category": "Household products",
+  "comment": "New dishwasher",
+  "date": {
+    "day": "03",
+    "month": "11",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc87e"
+  },
+  "category": "Household products",
+  "comment": "Strange things",
+  "date": {
+    "day": "04",
+    "month": "11",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc87f"
+  },
+  "category": "Other expenses",
+  "comment": "Broken record",
+  "date": {
+    "day": "05",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc880"
+  },
+  "category": "Other expenses",
+  "comment": "Stupid something",
+  "date": {
+    "day": "06",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "250",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc881"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc882"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc883"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc884"
+  },
+  "category": "Main expenses",
+  "comment": "new window in the house",
+  "date": {
+    "day": "09",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "150",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc885"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "04",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc886"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "04",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc887"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "05",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc888"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "06",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc889"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "07",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc88a"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "10",
+    "month": "08",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc88b"
+  },
+  "category": "Child care",
+  "comment": "Soap",
+  "date": {
+    "day": "28",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc88c"
+  },
+  "category": "Products",
+  "comment": "Milk",
+  "date": {
+    "day": "22",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "2000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc88d"
+  },
+  "category": "Products",
+  "comment": "Groceries",
+  "date": {
+    "day": "22",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1800",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc88e"
+  },
+  "category": "Car",
+  "comment": "New Tires",
+  "date": {
+    "day": "02",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "12000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc88f"
+  },
+  "category": "Car",
+  "comment": "fuel",
+  "date": {
+    "day": "02",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "8000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc890"
+  },
+  "category": "Household products",
+  "comment": "New washing machine",
+  "date": {
+    "day": "03",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "16000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc891"
+  },
+  "category": "Household products",
+  "comment": "Shit to kill ants and other bugs in the house",
+  "date": {
+    "day": "04",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "6000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc892"
+  },
+  "category": "Other expenses",
+  "comment": "Thief damaged door",
+  "date": {
+    "day": "05",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc893"
+  },
+  "category": "Other expenses",
+  "comment": "Hefty sum for hiding body",
+  "date": {
+    "day": "06",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "25000",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc894"
+  },
+  "category": "Education",
+  "comment": "IT course",
+  "date": {
+    "day": "07",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "600",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc895"
+  },
+  "category": "Entertainment",
+  "comment": "Flix Prime Subscription",
+  "date": {
+    "day": "08",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc896"
+  },
+  "category": "Leisures",
+  "comment": "Lingerie for wife",
+  "date": {
+    "day": "08",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc897"
+  },
+  "category": "Main expenses",
+  "comment": "new door in the house",
+  "date": {
+    "day": "09",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "1500",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc898"
+  },
+  "category": "Self care",
+  "comment": "Beer",
+  "date": {
+    "day": "12",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "200",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc899"
+  },
+  "category": "Main expenses",
+  "comment": "Food for supermen and his wife, dog, children and enemies",
+  "date": {
+    "day": "13",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "300",
+  "type": "-"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc89a"
+  },
+  "comment": "Salary",
+  "date": {
+    "day": "14",
+    "month": "09",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "10000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc89b"
+  },
+  "comment": "Side Job",
+  "date": {
+    "day": "15",
+    "month": "10",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "5000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc89c"
+  },
+  "comment": "Bank robbery",
+  "date": {
+    "day": "18",
+    "month": "11",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "50000",
+  "type": "+"
+},
+{
+  "_id": {
+    "$oid": "650f7f8a953c1b93126fc89d"
+  },
+  "comment": "Lottery ticket",
+  "date": {
+    "day": "19",
+    "month": "12",
+    "year": "2022"
+  },
+  "owner": {
+    "_id": "650cb3222616a6a57918c9f3"
+  },
+  "sum": "20000",
+  "type": "+"
+}]
