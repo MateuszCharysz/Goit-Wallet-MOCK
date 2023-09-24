@@ -35,6 +35,7 @@ const mockTransaction = new Schema(
         'Leisure',
         'Other expenses',
         'Entertainment',
+        'Income'
       ],
     },
     date: {
