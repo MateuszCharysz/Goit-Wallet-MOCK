@@ -1,4 +1,4 @@
-const Transaction = require('../models/transactions');
+const Transaction = require('../models/mockTransactions');
 
 const getTransactions = async ({ month = null, year = null }) => {
   try {
