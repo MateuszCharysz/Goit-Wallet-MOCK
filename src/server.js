@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const app = require('./app');
 
 const SRV_DB = process.env.DB_HOST;
-const PORT = Number(process.env.PORT);
+const PORT = 8080;
 
 const connection = mongoose.connect(SRV_DB, {
   useNewUrlParser: true,
